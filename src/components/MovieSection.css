@@ -32,14 +32,14 @@
 .movieRow--left, .movieRow--right {
     position: absolute;
     width: 50px;
-    height: 200px;
-background-color: rgba(0, 0, 0, 0.6);
-z-index: 999;
-display: flex;
-align-items: center;
-justify-content: center;
-opacity: 0;
-transition: all ease 0.5s;
+    height: 230px;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: all ease 0.5s;
 }
 
 .movieRow--left{
